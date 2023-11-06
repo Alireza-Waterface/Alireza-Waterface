@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+there!;+I'm+Alireza+Waterface!" />
 </h1>
 
-<h3>Front-End web developer from Iran, Kermanshah</h3>
+<h3 align="center">Front-End web developer from Iran, Kermanshah</h3>
 
 <br />
 
@@ -26,6 +26,6 @@
   </a>
 
   <a href="https://t.me/+989155706085" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/telegram-icon-2048x2048-l6ni6sux.png" />
+    <img width="50px" src="https://static-00.iconduck.com/assets.00/telegram-icon-2048x2048-l6ni6sux.png" />
   </a>
 </div>
