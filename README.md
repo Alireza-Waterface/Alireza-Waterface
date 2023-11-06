@@ -37,7 +37,7 @@
 <div align="center">
   <h2 align="center">Languages - Frameworks - Tools</h2>
 
-  <img src="https://skillicons.dev/icons?i=all" width="50px" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,tailwind,bootstrap,git,github,html,css" />
   
 </div>
 
