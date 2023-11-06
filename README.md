@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+there!+Welcome+✌🏻;+I'm+Alireza+Waterface!" />
 </h1>
 
-<h3 align="center">Front-End web developer from Iran, Kermanshah</h3>
+<h2 align="center">Front-End web developer from Iran, Kermanshah</h2>
 
 <br />
 
@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <h2 align="center">👇🏻 Get in touch using: 👇🏻</h2>
+  <h3 align="center">👇🏻 Get in touch using: 👇🏻</h3>
 
   <a href="mailto:Alireza.waterface@outlook.com" target="_blank">
     <img width="50px" src="https://www.nidirect.gov.uk/sites/default/files/styles/nigov_full_620_x1/public/images/email_logo.jpg?itok=ifUhNgCT" />
@@ -35,14 +35,14 @@
 </div>
 
 <div align="center">
-  <h2 align="center">Languages - Frameworks - Tools</h2>
+  <h3 align="center">Languages - Frameworks - Tools</h3>
 
   <img src="https://skillicons.dev/icons?i=react,javascript,tailwind,bootstrap,git,github,html,css,figma,linkedin,vscode,xd" />
   
 </div>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h3>🐍 My Contributions 🐍</h3>
 
   <img alt="Snake moving around" src="https://raw.githubusercontent.com/Alireza-Waterface/Alireza-Waterface/output/github-contribution-grid-snake.svg" />
 
