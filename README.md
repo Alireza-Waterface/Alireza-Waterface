@@ -37,7 +37,17 @@
 <div align="center">
   <h2 align="center">Languages - Frameworks - Tools</h2>
 
-  <img src="https://skillicons.dev/icons?i=react,javascript,tailwind,bootstrap,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,tailwind,bootstrap,git,github,html,css,figma,linkedin,vscode,xd" />
   
 </div>
+
+<div align="center">
+  <h2>My Contributions</h2>
+
+  <img alt="Snake moving around" src="https://raw.githubusercontent.com/Alireza-Waterface/Alireza-Waterface/output/github-contribution-grid-snake.svg" />
+
+  <br /><br />
+</div>
+
+<hr />
 
