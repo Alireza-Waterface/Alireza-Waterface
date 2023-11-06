@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  <p>🔭 I'm currentlu working on **a shopping website**</p>
+  <p>🔭 I'm currently working on **a shopping website**</p>
   
   <p>🌱 I'm currently learning more about *React*, basics of *Node.js* and *Databases*</p>
 
