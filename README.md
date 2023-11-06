@@ -41,7 +41,7 @@
 
   <img src="[https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png)" width="50px" />
 
-  <img src="[https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9mv5WLgEdTEchvqgrPj7hMwZogPmU1MAmB-UqjV3zul7Se-9ZrynsHvigo7zYCkS4_ZM&usqp=CAU)" width="50px" />
+  <img src="[https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9mv5WLgEdTEchvqgrPj7hMwZogPmU1MAmB-UqjV3zul7Se-9ZrynsHvigo7zYCkS4_ZMusqp=CAU)" width="50px" />
 
   <img src="[https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzrll7cI2VBsyhQ-6OJlgBhA2WHNLkBL4EwIHy4oa8U-OzHrCAvqbW5JN_zJespOzZiv8&usqp=CAU)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzrll7cI2VBsyhQ-6OJlgBhA2WHNLkBL4EwIHy4oa8U-OzHrCAvqbW5JN_zJespOzZiv8&usqp=CAU" width="50px" />
 
