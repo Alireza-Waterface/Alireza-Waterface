@@ -4,17 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+there!+Welcome+✌🏻;+I'm+Alireza+Waterface!" />
 </h1>
 
-<h2 align="center">Front-End web developer from Iran, Kermanshah</h2>
-<br />
+<h2 align="center">  Front-End web developer from Iran, Kermanshah  </h2>
 
+<br />
 
 <div align="center">
   
-  🔭 I'm currentlu working on **a shopping website**
+  <p>🔭 I'm currentlu working on **a shopping website**</p>
   
-  🌱 I'm currently learning more about *React*, basics of *Node.js* and *Databases*
+  <p>🌱 I'm currently learning more about *React*, basics of *Node.js* and *Databases*</p>
 
-  👨‍🎓 I'm Student in Kermanshah university of technology (computer engineering)
+  <p>👨‍🎓 I'm Student in Kermanshah university of technology (computer engineering)</p>
   
 </div>
 
