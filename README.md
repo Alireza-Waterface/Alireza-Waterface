@@ -10,16 +10,16 @@
 
 <div align="center">
   
-  I'm currentlu working on **a shopping website**
+  🔭 I'm currentlu working on **a shopping website**
   
-  I'm currently learning more about *React*, basics of *Node.js* and *Databases*
+  🌱 I'm currently learning more about *React*, basics of *Node.js* and *Databases*
 
-  I'm Student in Kermanshah university of technology (computer engineering)
+  👨‍🎓 I'm Student in Kermanshah university of technology (computer engineering)
   
 </div>
 
 <div align="center">
-  <h2 align="center">Get in touch using: </h2>
+  <h2 align="center">👇🏻 Get in touch using: 👇🏻</h2>
 
   <a href="mailto:Alireza.waterface@outlook.com" target="_blank">
     <img width="50px" src="https://www.nidirect.gov.uk/sites/default/files/styles/nigov_full_620_x1/public/images/email_logo.jpg?itok=ifUhNgCT" />
@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <h2>My Contributions</h2>
+  <h2>🐍 My Contributions 🐍</h2>
 
   <img alt="Snake moving around" src="https://raw.githubusercontent.com/Alireza-Waterface/Alireza-Waterface/output/github-contribution-grid-snake.svg" />
 
