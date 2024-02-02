@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  <p>🔭 I'm currently **Improving my skills**</p>
+  <p>🔭 I'm currently <b>Improving my skills</b></p>
   
   <p>🌱 I'm currently learning more about *React*, *Databases*, *Docker*, *Firebase*, ...</p>
 
