@@ -4,15 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+there!+Welcome+✌🏻;+I'm+Alireza+Waterface!" />
 </h1>
 
-<h2 align="center">  Front-End web developer from Iran, Kermanshah  </h2>
+<h2 align="center">  Front-End web developer from Iran, Khorramabad  </h2>
 
 <br />
 
 <div align="center">
   
-  <p>🔭 I'm currently working on **a shopping website**</p>
+  <p>🔭 I'm currently **Improving my skills**</p>
   
-  <p>🌱 I'm currently learning more about *React*, basics of *Node.js* and *Databases*</p>
+  <p>🌱 I'm currently learning more about *React*, *Databases*, *Docker*, *Firebase*, ...</p>
 
   <p>👨‍🎓 I'm Student in Kermanshah university of technology (computer engineering)</p>
   
