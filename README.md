@@ -12,7 +12,7 @@
   
   <p>🔭 I'm currently <b>Improving my skills</b></p>
   
-  <p>🌱 I'm currently learning more about *React*, *Databases*, *Docker*, *Firebase*, ...</p>
+  <p>🌱 I'm currently learning more about <b>React</b>, <b>Databases</b>, <b>Docker</b>, <b>Firebase</b>, ...</p>
 
   <p>👨‍🎓 I'm Student in Kermanshah university of technology (computer engineering)</p>
   
