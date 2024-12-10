@@ -12,7 +12,7 @@
   
   <p>🔭 I'm currently <b>Improving my skills</b></p>
   
-  <p>🌱 I'm deeply learning about <b>React</b>, <b>JavaScript</b>, <b>Docker</b>, ...</p>
+  <p>🌱 I'm deeply learning about <b>NextJS</b>, <b>React</b>, <b>Network</b>, ...</p>
 
   <p>👨‍🎓 I'm Student in Kermanshah university of technology (computer engineering)</p>
   
@@ -37,7 +37,7 @@
 <div align="center">
   <h3 align="center">Languages - Frameworks - Tools</h3>
 
-  <img src="https://skillicons.dev/icons?i=react,javascript,tailwind,bootstrap,git,github,html,css,figma,linkedin,vscode,xd" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,javascript,tailwind,bootstrap,git,github,html,css,figma,linkedin,vscode,xd" />
   
 </div>
 
