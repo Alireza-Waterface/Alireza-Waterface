@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=6000&lines=Hi+there!+Welcome+✌🏻;+I'm+Alireza+Abchehre!" />
 </h1>
 
-<h2 align="center">  Front-End web developer from Iran, Khorramabad  </h2>
+<h2 align="center">  Front-End web developer from Iran, Tehran  </h2>
 
 <br />
 
@@ -12,9 +12,9 @@
   
   <p>🔭 I'm currently <b>Improving my skills</b></p>
   
-  <p>🌱 I'm deeply learning about <b>NextJS</b>, <b>React</b>, <b>Network</b>, ...</p>
+  <p>🌱 I'm deeply learning about <b>NextJS</b>, <b>React</b>, <b>TypeScript</b>, ...</p>
 
-  <p>👨‍🎓 I'm Student in Kermanshah university of technology (computer engineering)</p>
+  <p>👨‍🎓 I've graduated from Kermanshah university of technology (computer engineering)</p>
   
 </div>
 
@@ -37,7 +37,7 @@
 <div align="center">
   <h3 align="center">Languages - Frameworks - Tools</h3>
 
-  <img src="https://skillicons.dev/icons?i=nextjs,react,javascript,tailwind,bootstrap,git,github,html,css,figma,linkedin,vscode,xd" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,javascript,typescript,vue,tailwind,bootstrap,git,github,html,css,figma,xd" />
   
 </div>
 
